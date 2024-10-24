@@ -3,7 +3,7 @@
 // hallo("Mark"); // Dit zal 'Hallo Mark!' printen in de console
 
 function hallo(naam) {
-  console.log("Hallo " + naam + "!");
+  console.log(`Hallo ${naam}!`);
 }
 
 // deel 2: Gebruik de gemaakte functie uit Deel 1 in onderstaande code.
